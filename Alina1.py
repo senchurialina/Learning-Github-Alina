@@ -1,2 +1,6 @@
 print("day 1")
 print("day 2")
+print("HELLO")
+print("WOOHOO")
+print("I am learning Python")
+print("This is so much fun")
